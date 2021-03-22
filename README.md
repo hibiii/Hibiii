@@ -11,7 +11,7 @@
 		<li>i need help with car physics, in <a href="https://github.com/Hibiii/Formulaic">Hibiii/Formulaic</a></li>
 		<li>ask me about trains, i love 'em</li>
 	</ul>
-	<p align="center">
+	<p>
 		<a href="https://github.com/Hibiii"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='GitHub' height='40'></a>
 		<a href="https://dsc.bio/hibi"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='Discord' height='40'></a>
 		<a href="https://steamcommunity.com/id/Hibiscvs/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/steam.svg' alt='Steam' height='40'></a>
