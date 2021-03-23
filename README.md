@@ -1,5 +1,5 @@
 <body>
-	<img src="https://github.com/Hibiii/Hibiii/raw/main/red_tree.png" align="right" width=320>
+	<img src="https://github.com/Hibiii/Hibiii/raw/main/red_tree.png" align="right" width=380>
 	<h1>hibi's github profile 🌺</h1>
 	<h3>jack of all trades, master of none :(</h3>
 	<p>23, man, bi/pan.</p>
