@@ -4,12 +4,13 @@
 	<h3>jack of all trades, master of none :(</h3>
 	<p>23, man, bi/pan.</p>
 	<p>i'm shy to talk about myself, but i love people, and i love helping others. i'm currently lost in life, i keep following my heart but it too is confused :(</p>
-	<p>i have moderate skill with OOP, java, and vanilla html+css+js, graphic and audio design as well as an undying enthusiasm for making people happy.</p>
+	<p>i'm an absolute hug addict, i daydream a lot and i play videogames to help me understand reality and why i exist.</p>
+	<p>i have moderate skill with OOP, java, mixins, and vanilla html+css+js, graphic and audio design as well as an undying enthusiasm for making people happy.</p>
 	<ul>
 		<li>minecraft modder i guess</li>
 		<li>sometimes i write too</li>
 		<li>i have a site at <a href="https://hibi.neocities.org/">neocities</a>, handwritten</li>
-		<li>i need help with car physics, in <a href="https://github.com/Hibiii/Formulaic">Hibiii/Formulaic</a></li>
+		<li>i'm proud of <a href="https://github.com/Hibiii/Kappa">Kappa</a>, a tiny mod of OptiFine capes for snapshots</li>
 		<li>ask me about trains, i love 'em</li>
 	</ul>
 	<p>
