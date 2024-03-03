@@ -13,6 +13,7 @@
 	<p>
 		discord: <a href="https://discord.com/users/593318273207238656">hibiscvs</a><br/>
 		modrinth: <a href="https://modrinth.com/user/hibi">hibi</a><br/>
-		curseforge: <a href="https://www.curseforge.com/members/hibiscvs/projects">hibiscvs</a>
+		curseforge: <a href="https://www.curseforge.com/members/hibiscvs/projects">hibiscvs</a><br/>
+		patreon: <a href="https://patreon.com/hibiscvs">hibiscvs</a>
 	</p>
 </body>
