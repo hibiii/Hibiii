@@ -2,7 +2,7 @@
 	<img src="https://github.com/Hibiii/Hibiii/raw/main/red_tree.png" align="right" width=380>
 	<h1>hibi's github profile</h1>
 	<h3>jack of all trades, master of none</h3>
-	<p>26, trans woman, bi/pan.</p>
+	<p>27, trans woman, bi/pan.</p>
 	<p>i have moderate skill with <b>java</b>, <b>c</b>, <b>lua</b>, <b>html+css+js</b>. i also know a bit about game design from my interest in games, all of this is informal. i also have a sense of code correctness from studying glitches and exploits in games generally.</p>
 	<ul>
 		<li>minecraft modder - i like adding to things i already use and like</li>
