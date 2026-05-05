@@ -10,6 +10,7 @@
 		<li>i have a site at <a href="https://hibiscus.pet/">hibiscus.pet</a>, mostly html, using jekyll</li>
 	</ul>
 	<p>
+		bluesky: <a href="https://bsky.app/profile/hibiscus.pet">hibiscus.pet</a><br/>
 		discord: <a href="https://discord.com/users/593318273207238656">hibiscvs</a><br/>
 		modrinth: <a href="https://modrinth.com/user/hibi">hibi</a><br/>
 		curseforge: <a href="https://www.curseforge.com/members/hibiscvs/projects">hibiscvs</a><br/>
